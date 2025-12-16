@@ -1,0 +1,2 @@
+body { font-family: system-ui, Arial, sans-serif; margin: 0; padding: 2rem; background: #f7f7fb; }
+.app { max-width: 760px; margin: 0 auto; background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); }
